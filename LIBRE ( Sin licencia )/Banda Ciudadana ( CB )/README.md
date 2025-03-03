@@ -1,4 +1,33 @@
-# Frecuencias CB (Citizen Band)
+# 📜 Licencia y Autorización
+
+- ✅ No es necesaria licencia ni autorización individual.
+- 📡 No hay que registrar los equipos.
+- 💰 No hay que pagar tasas ni cuotas.
+
+# 📡 Estaciones y Limitaciones Técnicas
+
+- ⚠️ **Sólo está permitido el uso de equipos homologados**:
+    - Los equipos CB-27 deben estar certificados según el **Real Decreto 188/2016, de 6 de mayo**, que regula la comercialización, uso y conformidad de los equipos radioeléctricos (marcado **CE**), en línea con la **Directiva 2014/53/UE**.
+    - La norma técnica armonizada de referencia para los equipos CB-27 es el estándar **EN 300 433**.
+
+- 📡 **Número de canales**: 40 CEPT (**26.965 – 27.405 KHz**).
+- 🎙️ **Modos de emisión**: AM, FM, SSB.
+- ⚡ **Potencias máximas permitidas**:
+    - 🔘 4W en AM y FM.
+    - 🔘 12W en SSB.
+- 📶 **Antenas fijas**: Solo pueden ser **verticales** y con una **ganancia menor de 6 dB**.
+
+# ⛔ Limitaciones
+
+- ❌ No están permitidas las estaciones de CB a bordo de **aeronaves**.
+- ❌ No están permitidos los **repetidores de señal**.
+- ❌ No está permitida la **emisión continua de una onda portadora no modulada**.
+
+---
+
+### 📌 Fuente: [Reglamento CB-27](https://www.cb27.com/legal/reglamentocb)
+
+# 📡 Frecuencias CB (Citizen Band)
 
 La Banda Ciudadana (CB) opera en la banda de 27 MHz y es utilizada para comunicaciones personales, profesionales y recreativas. En muchos países, el uso de CB es libre de licencia, aunque pueden existir regulaciones específicas.
 
